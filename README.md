@@ -39,7 +39,9 @@ QR코드를 이용하여 그 날 그 날 버스 탑승인원을 체크하여,
 1. 로그인
 
 
-<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B81.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B82.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B83.png" width=30%>
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B81.png" width=30%>
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B82.png" width=30%>
+<img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B83.png" width=30%>
 
 
 
