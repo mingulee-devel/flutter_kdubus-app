@@ -46,6 +46,9 @@ QR코드를 이용하여 그 날 그 날 버스 탑승인원을 체크하여,
 
 
 
+
+
+
 2. 학생 탭
 
 
@@ -57,6 +60,8 @@ QR코드를 이용하여 그 날 그 날 버스 탑승인원을 체크하여,
 
 
 <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D3.png" width=30%> <img src="https://github.com/mingulee-only/flutter-kduBus-app/blob/main/%ED%95%99%EC%83%9D4.png" width=30%>
+
+
 
 
 
